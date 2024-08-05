@@ -1,6 +1,6 @@
-# gypsy
+# The New Sole
 
-A new Flutter project.
+A new project based on FLUTTER.
 
 ## Getting Started
 
